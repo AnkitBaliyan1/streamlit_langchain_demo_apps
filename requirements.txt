@@ -3,3 +3,4 @@ langchain
 streamlit
 langchain-openai
 openai
+bs4
