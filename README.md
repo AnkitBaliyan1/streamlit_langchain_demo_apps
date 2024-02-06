@@ -29,4 +29,6 @@ To run this application on your machine, follow these steps:
 
 Feel free to explore and enjoy the diverse features of the Langchain-powered Streamlit application!
 
+Access the application: [link](https://langchaindemoapps.streamlit.app)
+
 Happy exploring! 🌟🚀
