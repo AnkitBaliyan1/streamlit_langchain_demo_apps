@@ -4,3 +4,4 @@ streamlit
 langchain-openai
 openai
 bs4
+beautifulsoup4
